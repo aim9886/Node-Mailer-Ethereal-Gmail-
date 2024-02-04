@@ -1,0 +1,41 @@
+{
+  name: 'Hemanth Kumar',
+  email: 'hemu9448@gmail.com',
+  subject: 'javascript',
+  message: 'hello'
+}
+Email sent: 250 Accepted [STATUS=new MSGID=ZbubufBRgEWXezH2ZbucHkXpHMXMRCNOAAAAAmxj8ijC6MBq.JjwHCqllFo]
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+{
+  name: 'Hemanth Kumar',
+  email: 'hemu9448@gmail.com',
+  subject: 'React js',
+  message: 'kumar'
+}
+Email sent: 250 Accepted [STATUS=new MSGID=Zb38cPBRgEWXe3N2Zb38z7soRCFQhmXqAAAAAt1VaDZX02PlAXDHouRfN-8]
+
+O/P in ethereal email:
+
+Subject: Hello hemanth
+From: Hemanth Kumar 👻 <hemu9448@gmail.com>
+To: <aimanth9886@gmail.com>
+Time: Today at 14:13
+Message-ID: <a9fca969-eff3-0860-b0ef-8b23bb4c41f0@gmail.com>
+
+O/P: Hello hk hemanth
+
+//////////////////////////////////////////////////////////////////////
+
+////Gmail////
+
+{
+  name: 'Hemanth Kumar',
+  email: 'hemu9448@gmail.com',
+  subject: 'javascript',
+  message: 'hi'
+}
+Email sent: 250 2.0.0 OK  1706950971 ki12-20020a170903068c00b001d71df54cdasm2820820plb.274 - gsmtp
+
+O/P: This is the email sent for learning
